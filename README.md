@@ -19,4 +19,4 @@ python -m torch.distributed.launch \
 It contains basic ignite handler to capture region/organ-wise statistics, save snapshots, outputs while running train/validation over a dataset that has multi-label mask.
 By-default the handler is added as part of training/validation steps.
 
-<img src="./snapshot.png" alt="Your image title" width="400"/>
+<img src="./stats.png" alt="Your image title" width="400"/>
